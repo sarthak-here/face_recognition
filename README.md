@@ -1,5 +1,10 @@
 # Face Recognition Attendance System
 
+> **[System Design](./systemdesign.md)** - Architecture, data flow, and how it works end-to-end
+
+---
+
+
 A real-time attendance system that uses facial recognition to automatically mark attendance via webcam.
 
 ## How It Works
